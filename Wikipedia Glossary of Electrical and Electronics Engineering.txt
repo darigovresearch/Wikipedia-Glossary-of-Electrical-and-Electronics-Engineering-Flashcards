@@ -67,41 +67,6 @@
 <dt class="glossary" id="&#39;&#39;&#39;average_rectified_value&#39;&#39;&#39;" style="margin-top: 0.4em;"><dfn class="glossary"><b><a href="/wiki/Average_rectified_value" title="Average rectified value">Average rectified value</a></b></dfn></dt> <dd class="glossary">The average value of an alternating current waveform, taking the absolute value of the waveform. The average value is generally different from the root-mean-square value.</dd>
 
 </dl>
-<div style="text-align:center;"><div role="navigation" id="toc" class="toc plainlinks hlist" aria-labelledby="tocheading" style="margin-left:auto;margin-right:auto; text-align:left;">
-<div id="toctitle" class="toctitle" style="text-align:center;display:inline-block;"><span id="tocheading" style="font-weight:bold;">Contents&#58;&#160;</span></div>
-<div style="margin:auto;white-space:nowrap;display:inline-block;">
-<ul><li><a href="#top">Top</a></li>
-<li><a href="#0–9">0–9</a></li>
-<li><a href="#A">A</a></li>
-<li><a href="#B">B</a></li>
-<li><a href="#C">C</a></li>
-<li><a href="#D">D</a></li>
-<li><a href="#E">E</a></li>
-<li><a href="#F">F</a></li>
-<li><a href="#G">G</a></li>
-<li><a href="#H">H</a></li>
-<li><a href="#I">I</a></li>
-<li><a href="#J">J</a></li>
-<li><a href="#K">K</a></li>
-<li><a href="#L">L</a></li>
-<li><a href="#M">M</a></li>
-<li><a href="#N">N</a></li>
-<li><a href="#O">O</a></li>
-<li><a href="#P">P</a></li>
-<li><a href="#Q">Q</a></li>
-<li><a href="#R">R</a></li>
-<li><a href="#S">S</a></li>
-<li><a href="#T">T</a></li>
-<li><a href="#U">U</a></li>
-<li><a href="#V">V</a></li>
-<li><a href="#W">W</a></li>
-<li><a href="#X">X</a></li>
-<li><a href="#Y">Y</a></li>
-<li><a href="#Z">Z</a></li>
-<li><a href="#See_also">See also</a></li>
-<li><a href="#References">References</a></li>
-<li><a href="#External_links">External links</a></li></ul>
-</div></div></div>
 <dl class="glossary">
 <dt class="glossary" id="&#39;&#39;&#39;backward_wave_oscillator&#39;&#39;&#39;" style="margin-top: 0.4em;"><dfn class="glossary"><b><a href="/wiki/Backward_wave_oscillator" class="mw-redirect" title="Backward wave oscillator">Backward wave oscillator</a></b></dfn></dt><dd class="glossary">A type of microwave oscillator vacuum tube.</dd>
 <dt class="glossary" id="&#39;&#39;&#39;balanced_line&#39;&#39;&#39;" style="margin-top: 0.4em;"><dfn class="glossary"><b><a href="/wiki/Balanced_line" title="Balanced line">Balanced line</a></b></dfn></dt><dd class="glossary">A transmission line with two conductors, with equal impedances to earth ground.</dd>
@@ -150,41 +115,6 @@
 <dt class="glossary" id="&#39;&#39;&#39;butterworth_filter&#39;&#39;&#39;" style="margin-top: 0.4em;"><dfn class="glossary"><b><a href="/wiki/Butterworth_filter" title="Butterworth filter">Butterworth filter</a></b></dfn></dt><dd class="glossary">A type of filter with the flattest possible pass band.</dd>
 <dt class="glossary" id="&#39;&#39;&#39;buzzer&#39;&#39;&#39;" style="margin-top: 0.4em;"><dfn class="glossary"><b><a href="/wiki/Buzzer" title="Buzzer">Buzzer</a></b></dfn></dt><dd class="glossary">An electromechanical or electronic device that produces a sound when energized.</dd>
 </dl>
-<div style="text-align:center;"><div role="navigation" id="toc" class="toc plainlinks hlist" aria-labelledby="tocheading" style="margin-left:auto;margin-right:auto; text-align:left;">
-<div id="toctitle" class="toctitle" style="text-align:center;display:inline-block;"><span id="tocheading" style="font-weight:bold;">Contents&#58;&#160;</span></div>
-<div style="margin:auto;white-space:nowrap;display:inline-block;">
-<ul><li><a href="#top">Top</a></li>
-<li><a href="#0–9">0–9</a></li>
-<li><a href="#A">A</a></li>
-<li><a href="#B">B</a></li>
-<li><a href="#C">C</a></li>
-<li><a href="#D">D</a></li>
-<li><a href="#E">E</a></li>
-<li><a href="#F">F</a></li>
-<li><a href="#G">G</a></li>
-<li><a href="#H">H</a></li>
-<li><a href="#I">I</a></li>
-<li><a href="#J">J</a></li>
-<li><a href="#K">K</a></li>
-<li><a href="#L">L</a></li>
-<li><a href="#M">M</a></li>
-<li><a href="#N">N</a></li>
-<li><a href="#O">O</a></li>
-<li><a href="#P">P</a></li>
-<li><a href="#Q">Q</a></li>
-<li><a href="#R">R</a></li>
-<li><a href="#S">S</a></li>
-<li><a href="#T">T</a></li>
-<li><a href="#U">U</a></li>
-<li><a href="#V">V</a></li>
-<li><a href="#W">W</a></li>
-<li><a href="#X">X</a></li>
-<li><a href="#Y">Y</a></li>
-<li><a href="#Z">Z</a></li>
-<li><a href="#See_also">See also</a></li>
-<li><a href="#References">References</a></li>
-<li><a href="#External_links">External links</a></li></ul>
-</div></div></div>
 <dl class="glossary">
 <dt class="glossary" id="&#39;&#39;&#39;canadian_electrical_code&#39;&#39;&#39;" style="margin-top: 0.4em;"><dfn class="glossary"><b><a href="/wiki/Canadian_Electrical_Code" title="Canadian Electrical Code">Canadian Electrical Code</a></b></dfn></dt><dd class="glossary">The technical standard for building wiring in Canada.</dd>
 <dt class="glossary" id="&#39;&#39;&#39;canadian_standards_association&#39;&#39;&#39;" style="margin-top: 0.4em;"><dfn class="glossary"><b><a href="/wiki/Canadian_Standards_Association" class="mw-redirect" title="Canadian Standards Association">Canadian Standards Association</a></b></dfn></dt><dd class="glossary">Non-profit organization that develops electrical and other technical standards.</dd>
@@ -276,41 +206,6 @@
 <dt class="glossary" id="&#39;&#39;&#39;cybernetics&#39;&#39;&#39;" style="margin-top: 0.4em;"><dfn class="glossary"><b><a href="/wiki/Cybernetics" title="Cybernetics">Cybernetics</a></b></dfn></dt><dd class="glossary">The science of automatic control systems.</dd>
 <dt class="glossary" id="&#39;&#39;&#39;cycloconverter&#39;&#39;&#39;" style="margin-top: 0.4em;"><dfn class="glossary"><b><a href="/wiki/Cycloconverter" title="Cycloconverter">Cycloconverter</a></b></dfn></dt><dd class="glossary">A type of variable frequency power converter that does not first convert AC to DC.</dd>
 </dl>
-<div style="text-align:center;"><div role="navigation" id="toc" class="toc plainlinks hlist" aria-labelledby="tocheading" style="margin-left:auto;margin-right:auto; text-align:left;">
-<div id="toctitle" class="toctitle" style="text-align:center;display:inline-block;"><span id="tocheading" style="font-weight:bold;">Contents&#58;&#160;</span></div>
-<div style="margin:auto;white-space:nowrap;display:inline-block;">
-<ul><li><a href="#top">Top</a></li>
-<li><a href="#0–9">0–9</a></li>
-<li><a href="#A">A</a></li>
-<li><a href="#B">B</a></li>
-<li><a href="#C">C</a></li>
-<li><a href="#D">D</a></li>
-<li><a href="#E">E</a></li>
-<li><a href="#F">F</a></li>
-<li><a href="#G">G</a></li>
-<li><a href="#H">H</a></li>
-<li><a href="#I">I</a></li>
-<li><a href="#J">J</a></li>
-<li><a href="#K">K</a></li>
-<li><a href="#L">L</a></li>
-<li><a href="#M">M</a></li>
-<li><a href="#N">N</a></li>
-<li><a href="#O">O</a></li>
-<li><a href="#P">P</a></li>
-<li><a href="#Q">Q</a></li>
-<li><a href="#R">R</a></li>
-<li><a href="#S">S</a></li>
-<li><a href="#T">T</a></li>
-<li><a href="#U">U</a></li>
-<li><a href="#V">V</a></li>
-<li><a href="#W">W</a></li>
-<li><a href="#X">X</a></li>
-<li><a href="#Y">Y</a></li>
-<li><a href="#Z">Z</a></li>
-<li><a href="#See_also">See also</a></li>
-<li><a href="#References">References</a></li>
-<li><a href="#External_links">External links</a></li></ul>
-</div></div></div>
 <dl class="glossary">
 <dt class="glossary" id="&#39;&#39;&#39;damping_ratio&#39;&#39;&#39;" style="margin-top: 0.4em;"><dfn class="glossary"><b><a href="/wiki/Damping_ratio" title="Damping ratio">Damping ratio</a></b></dfn></dt> <dd class="glossary">A parameter that indicates how rapidly oscillations in a system die out, if ever.</dd>
 <dt class="glossary" id="&#39;&#39;&#39;darlington_transistor&#39;&#39;&#39;" style="margin-top: 0.4em;"><dfn class="glossary"><b><a href="/wiki/Darlington_transistor" title="Darlington transistor">Darlington transistor</a></b></dfn></dt> <dd class="glossary">An interconnection of two transistors to provide a gain that is the product of the individual gains.</dd>
@@ -373,41 +268,6 @@
 <dt class="glossary" id="&#39;&#39;&#39;dynamic_random_access_memory&#39;&#39;&#39;" style="margin-top: 0.4em;"><dfn class="glossary"><b><a href="/wiki/Dynamic_random_access_memory" class="mw-redirect" title="Dynamic random access memory">Dynamic random access memory</a></b></dfn></dt> <dd class="glossary">A type of semiconductor memory where data is stored as electric charges on capacitors; the charges must be refreshed periodically or else they will leak away, losing the stored data.</dd>
 <dt class="glossary" id="&#39;&#39;&#39;dynamo&#39;&#39;&#39;" style="margin-top: 0.4em;"><dfn class="glossary"><b><a href="/wiki/Dynamo" title="Dynamo">Dynamo</a></b></dfn></dt> <dd class="glossary">A direct-current generator, whose exciting field is provided by an electromagnet.</dd>
 </dl>
-<div style="text-align:center;"><div role="navigation" id="toc" class="toc plainlinks hlist" aria-labelledby="tocheading" style="margin-left:auto;margin-right:auto; text-align:left;">
-<div id="toctitle" class="toctitle" style="text-align:center;display:inline-block;"><span id="tocheading" style="font-weight:bold;">Contents&#58;&#160;</span></div>
-<div style="margin:auto;white-space:nowrap;display:inline-block;">
-<ul><li><a href="#top">Top</a></li>
-<li><a href="#0–9">0–9</a></li>
-<li><a href="#A">A</a></li>
-<li><a href="#B">B</a></li>
-<li><a href="#C">C</a></li>
-<li><a href="#D">D</a></li>
-<li><a href="#E">E</a></li>
-<li><a href="#F">F</a></li>
-<li><a href="#G">G</a></li>
-<li><a href="#H">H</a></li>
-<li><a href="#I">I</a></li>
-<li><a href="#J">J</a></li>
-<li><a href="#K">K</a></li>
-<li><a href="#L">L</a></li>
-<li><a href="#M">M</a></li>
-<li><a href="#N">N</a></li>
-<li><a href="#O">O</a></li>
-<li><a href="#P">P</a></li>
-<li><a href="#Q">Q</a></li>
-<li><a href="#R">R</a></li>
-<li><a href="#S">S</a></li>
-<li><a href="#T">T</a></li>
-<li><a href="#U">U</a></li>
-<li><a href="#V">V</a></li>
-<li><a href="#W">W</a></li>
-<li><a href="#X">X</a></li>
-<li><a href="#Y">Y</a></li>
-<li><a href="#Z">Z</a></li>
-<li><a href="#See_also">See also</a></li>
-<li><a href="#References">References</a></li>
-<li><a href="#External_links">External links</a></li></ul>
-</div></div></div>
 <dl class="glossary">
 <dt class="glossary" id="&#39;&#39;&#39;earth_leakage_circuit_breaker&#39;&#39;&#39;" style="margin-top: 0.4em;"><dfn class="glossary"><b><a href="/wiki/Earth_leakage_circuit_breaker" title="Earth leakage circuit breaker">Earth leakage circuit breaker</a></b></dfn></dt> <dd class="glossary">A protective device that opens a circuit when stray voltage or current detected that would present a hazard of electric shock.</dd>
 <dt class="glossary" id="&#39;&#39;&#39;eddy_current&#39;&#39;&#39;" style="margin-top: 0.4em;"><dfn class="glossary"><b><a href="/wiki/Eddy_current" title="Eddy current">Eddy current</a></b></dfn></dt> <dd class="glossary">A current induced inside a conductor exposed to a changing magnetic field.</dd>
@@ -513,41 +373,6 @@
 <dt class="glossary" id="&#39;&#39;&#39;extended_kalman_filter&#39;&#39;&#39;" style="margin-top: 0.4em;"><dfn class="glossary"><b><a href="/wiki/Extended_Kalman_filter" title="Extended Kalman filter">Extended Kalman filter</a></b></dfn></dt> <dd class="glossary">A strategy for estimating an unknown value in a non-linear system by combining multiple measurements.</dd>
 
 </dl>
-<div style="text-align:center;"><div role="navigation" id="toc" class="toc plainlinks hlist" aria-labelledby="tocheading" style="margin-left:auto;margin-right:auto; text-align:left;">
-<div id="toctitle" class="toctitle" style="text-align:center;display:inline-block;"><span id="tocheading" style="font-weight:bold;">Contents&#58;&#160;</span></div>
-<div style="margin:auto;white-space:nowrap;display:inline-block;">
-<ul><li><a href="#top">Top</a></li>
-<li><a href="#0–9">0–9</a></li>
-<li><a href="#A">A</a></li>
-<li><a href="#B">B</a></li>
-<li><a href="#C">C</a></li>
-<li><a href="#D">D</a></li>
-<li><a href="#E">E</a></li>
-<li><a href="#F">F</a></li>
-<li><a href="#G">G</a></li>
-<li><a href="#H">H</a></li>
-<li><a href="#I">I</a></li>
-<li><a href="#J">J</a></li>
-<li><a href="#K">K</a></li>
-<li><a href="#L">L</a></li>
-<li><a href="#M">M</a></li>
-<li><a href="#N">N</a></li>
-<li><a href="#O">O</a></li>
-<li><a href="#P">P</a></li>
-<li><a href="#Q">Q</a></li>
-<li><a href="#R">R</a></li>
-<li><a href="#S">S</a></li>
-<li><a href="#T">T</a></li>
-<li><a href="#U">U</a></li>
-<li><a href="#V">V</a></li>
-<li><a href="#W">W</a></li>
-<li><a href="#X">X</a></li>
-<li><a href="#Y">Y</a></li>
-<li><a href="#Z">Z</a></li>
-<li><a href="#See_also">See also</a></li>
-<li><a href="#References">References</a></li>
-<li><a href="#External_links">External links</a></li></ul>
-</div></div></div>
 <dl class="glossary">
 
 <dt class="glossary" id="&#39;&#39;&#39;farad&#39;&#39;&#39;" style="margin-top: 0.4em;"><dfn class="glossary"><b><a href="/wiki/Farad" title="Farad">Farad</a></b></dfn></dt><dd class="glossary">The SI unit of capacitance.</dd>
@@ -593,41 +418,6 @@
 <dt class="glossary" id="&#39;&#39;&#39;fuzzy_control&#39;&#39;&#39;" style="margin-top: 0.4em;"><dfn class="glossary"><b><a href="/wiki/Fuzzy_control" class="mw-redirect" title="Fuzzy control">Fuzzy control</a></b></dfn></dt><dd class="glossary">A control system that relies on fuzzy logic instead of binary true/false conditions.</dd>
 
 </dl>
-<div style="text-align:center;"><div role="navigation" id="toc" class="toc plainlinks hlist" aria-labelledby="tocheading" style="margin-left:auto;margin-right:auto; text-align:left;">
-<div id="toctitle" class="toctitle" style="text-align:center;display:inline-block;"><span id="tocheading" style="font-weight:bold;">Contents&#58;&#160;</span></div>
-<div style="margin:auto;white-space:nowrap;display:inline-block;">
-<ul><li><a href="#top">Top</a></li>
-<li><a href="#0–9">0–9</a></li>
-<li><a href="#A">A</a></li>
-<li><a href="#B">B</a></li>
-<li><a href="#C">C</a></li>
-<li><a href="#D">D</a></li>
-<li><a href="#E">E</a></li>
-<li><a href="#F">F</a></li>
-<li><a href="#G">G</a></li>
-<li><a href="#H">H</a></li>
-<li><a href="#I">I</a></li>
-<li><a href="#J">J</a></li>
-<li><a href="#K">K</a></li>
-<li><a href="#L">L</a></li>
-<li><a href="#M">M</a></li>
-<li><a href="#N">N</a></li>
-<li><a href="#O">O</a></li>
-<li><a href="#P">P</a></li>
-<li><a href="#Q">Q</a></li>
-<li><a href="#R">R</a></li>
-<li><a href="#S">S</a></li>
-<li><a href="#T">T</a></li>
-<li><a href="#U">U</a></li>
-<li><a href="#V">V</a></li>
-<li><a href="#W">W</a></li>
-<li><a href="#X">X</a></li>
-<li><a href="#Y">Y</a></li>
-<li><a href="#Z">Z</a></li>
-<li><a href="#See_also">See also</a></li>
-<li><a href="#References">References</a></li>
-<li><a href="#External_links">External links</a></li></ul>
-</div></div></div>
 <dl class="glossary">
 <dt class="glossary" id="&#39;&#39;&#39;gain_scheduling&#39;&#39;&#39;" style="margin-top: 0.4em;"><dfn class="glossary"><b><a href="/wiki/Gain_scheduling" title="Gain scheduling">Gain scheduling</a></b></dfn></dt> <dd class="glossary">A technique for control of non-linear systems that use different control parameters based on some measurement of the process controlled.</dd>
 <dt class="glossary" id="&#39;&#39;&#39;galvanic_corrosion&#39;&#39;&#39;" style="margin-top: 0.4em;"><dfn class="glossary"><b><a href="/wiki/Galvanic_corrosion" title="Galvanic corrosion">Galvanic corrosion</a></b></dfn></dt> <dd class="glossary">Electrochemical corrosion of one metal in contact with another.</dd>
@@ -651,41 +441,6 @@
 <dt class="glossary" id="&#39;&#39;&#39;gunn_diode&#39;&#39;&#39;" style="margin-top: 0.4em;"><dfn class="glossary"><b><a href="/wiki/Gunn_diode" title="Gunn diode">Gunn diode</a></b></dfn></dt> <dd class="glossary">A two-terminal solid-state device that is used in microwave oscillators.</dd>
 <dt class="glossary" id="&#39;&#39;&#39;gyrotron&#39;&#39;&#39;" style="margin-top: 0.4em;"><dfn class="glossary"><b><a href="/wiki/Gyrotron" title="Gyrotron">Gyrotron</a></b></dfn></dt> <dd class="glossary">A high power vacuum tube oscillator that can produce microwave frequencies up to hundreds of gigahertz, at power levels up to megawatts.</dd>
 </dl>
-<div style="text-align:center;"><div role="navigation" id="toc" class="toc plainlinks hlist" aria-labelledby="tocheading" style="margin-left:auto;margin-right:auto; text-align:left;">
-<div id="toctitle" class="toctitle" style="text-align:center;display:inline-block;"><span id="tocheading" style="font-weight:bold;">Contents&#58;&#160;</span></div>
-<div style="margin:auto;white-space:nowrap;display:inline-block;">
-<ul><li><a href="#top">Top</a></li>
-<li><a href="#0–9">0–9</a></li>
-<li><a href="#A">A</a></li>
-<li><a href="#B">B</a></li>
-<li><a href="#C">C</a></li>
-<li><a href="#D">D</a></li>
-<li><a href="#E">E</a></li>
-<li><a href="#F">F</a></li>
-<li><a href="#G">G</a></li>
-<li><a href="#H">H</a></li>
-<li><a href="#I">I</a></li>
-<li><a href="#J">J</a></li>
-<li><a href="#K">K</a></li>
-<li><a href="#L">L</a></li>
-<li><a href="#M">M</a></li>
-<li><a href="#N">N</a></li>
-<li><a href="#O">O</a></li>
-<li><a href="#P">P</a></li>
-<li><a href="#Q">Q</a></li>
-<li><a href="#R">R</a></li>
-<li><a href="#S">S</a></li>
-<li><a href="#T">T</a></li>
-<li><a href="#U">U</a></li>
-<li><a href="#V">V</a></li>
-<li><a href="#W">W</a></li>
-<li><a href="#X">X</a></li>
-<li><a href="#Y">Y</a></li>
-<li><a href="#Z">Z</a></li>
-<li><a href="#See_also">See also</a></li>
-<li><a href="#References">References</a></li>
-<li><a href="#External_links">External links</a></li></ul>
-</div></div></div>
 <dl class="glossary">
 <dt class="glossary" id="&#39;&#39;&#39;h_infinity&#39;&#39;&#39;" style="margin-top: 0.4em;"><dfn class="glossary"><b><a href="/wiki/H_infinity" class="mw-redirect" title="H infinity">H infinity</a></b></dfn></dt><dd class="glossary">An optimization strategy for certain classes of control problems.</dd>
 <dt class="glossary" id="&#39;&#39;&#39;hall_effect_sensor&#39;&#39;&#39;" style="margin-top: 0.4em;"><dfn class="glossary"><b><a href="/wiki/Hall_effect_sensor" title="Hall effect sensor">Hall effect sensor</a></b></dfn></dt><dd class="glossary">A device that detects and measures magnetic field by the Hall effect voltage induced in a current-carrying semiconductor.</dd>
@@ -728,41 +483,6 @@
 <dt class="glossary" id="&#39;&#39;&#39;hydropower&#39;&#39;&#39;" style="margin-top: 0.4em;"><dfn class="glossary"><b><a href="/wiki/Hydropower" title="Hydropower">Hydropower</a></b></dfn></dt><dd class="glossary">Power (now nearly always electric power) generated from falling water; hydroelectricity.</dd>
 <dt class="glossary" id="&#39;&#39;&#39;hysteresis&#39;&#39;&#39;" style="margin-top: 0.4em;"><dfn class="glossary"><b><a href="/wiki/Hysteresis" title="Hysteresis">Hysteresis</a></b></dfn></dt><dd class="glossary">A characteristic of a system where its state is history-dependent.</dd>
 </dl>
-<div style="text-align:center;"><div role="navigation" id="toc" class="toc plainlinks hlist" aria-labelledby="tocheading" style="margin-left:auto;margin-right:auto; text-align:left;">
-<div id="toctitle" class="toctitle" style="text-align:center;display:inline-block;"><span id="tocheading" style="font-weight:bold;">Contents&#58;&#160;</span></div>
-<div style="margin:auto;white-space:nowrap;display:inline-block;">
-<ul><li><a href="#top">Top</a></li>
-<li><a href="#0–9">0–9</a></li>
-<li><a href="#A">A</a></li>
-<li><a href="#B">B</a></li>
-<li><a href="#C">C</a></li>
-<li><a href="#D">D</a></li>
-<li><a href="#E">E</a></li>
-<li><a href="#F">F</a></li>
-<li><a href="#G">G</a></li>
-<li><a href="#H">H</a></li>
-<li><a href="#I">I</a></li>
-<li><a href="#J">J</a></li>
-<li><a href="#K">K</a></li>
-<li><a href="#L">L</a></li>
-<li><a href="#M">M</a></li>
-<li><a href="#N">N</a></li>
-<li><a href="#O">O</a></li>
-<li><a href="#P">P</a></li>
-<li><a href="#Q">Q</a></li>
-<li><a href="#R">R</a></li>
-<li><a href="#S">S</a></li>
-<li><a href="#T">T</a></li>
-<li><a href="#U">U</a></li>
-<li><a href="#V">V</a></li>
-<li><a href="#W">W</a></li>
-<li><a href="#X">X</a></li>
-<li><a href="#Y">Y</a></li>
-<li><a href="#Z">Z</a></li>
-<li><a href="#See_also">See also</a></li>
-<li><a href="#References">References</a></li>
-<li><a href="#External_links">External links</a></li></ul>
-</div></div></div>
 <dl class="glossary">
 
 <dt class="glossary" id="&#39;&#39;&#39;igbt&#39;&#39;&#39;" style="margin-top: 0.4em;"><dfn class="glossary"><b><a href="/wiki/IGBT" class="mw-redirect" title="IGBT">IGBT</a></b></dfn></dt><dd class="glossary">Insulated Gate Bipolar Transistor, a power semiconductor device that combines some of the advantages of field-effect and bipolar transistors.</dd>
@@ -807,41 +527,6 @@
 <dt class="glossary" id="&#39;&#39;&#39;isolation_transformer&#39;&#39;&#39;" style="margin-top: 0.4em;"><dfn class="glossary"><b><a href="/wiki/Isolation_transformer" title="Isolation transformer">Isolation transformer</a></b></dfn></dt><dd class="glossary">A transformer especially intended to prevent leakage current from passing from its primary circuit to the secondary circuit.</dd>
 <dt class="glossary" id="&#39;&#39;&#39;iterative_learning_control&#39;&#39;&#39;" style="margin-top: 0.4em;"><dfn class="glossary"><b><a href="/wiki/Iterative_learning_control" title="Iterative learning control">Iterative learning control</a></b></dfn></dt><dd class="glossary">A technique for improving the accuracy of control systems that carry out the same sequence repeatedly.</dd>
 </dl>
-<div style="text-align:center;"><div role="navigation" id="toc" class="toc plainlinks hlist" aria-labelledby="tocheading" style="margin-left:auto;margin-right:auto; text-align:left;">
-<div id="toctitle" class="toctitle" style="text-align:center;display:inline-block;"><span id="tocheading" style="font-weight:bold;">Contents&#58;&#160;</span></div>
-<div style="margin:auto;white-space:nowrap;display:inline-block;">
-<ul><li><a href="#top">Top</a></li>
-<li><a href="#0–9">0–9</a></li>
-<li><a href="#A">A</a></li>
-<li><a href="#B">B</a></li>
-<li><a href="#C">C</a></li>
-<li><a href="#D">D</a></li>
-<li><a href="#E">E</a></li>
-<li><a href="#F">F</a></li>
-<li><a href="#G">G</a></li>
-<li><a href="#H">H</a></li>
-<li><a href="#I">I</a></li>
-<li><a href="#J">J</a></li>
-<li><a href="#K">K</a></li>
-<li><a href="#L">L</a></li>
-<li><a href="#M">M</a></li>
-<li><a href="#N">N</a></li>
-<li><a href="#O">O</a></li>
-<li><a href="#P">P</a></li>
-<li><a href="#Q">Q</a></li>
-<li><a href="#R">R</a></li>
-<li><a href="#S">S</a></li>
-<li><a href="#T">T</a></li>
-<li><a href="#U">U</a></li>
-<li><a href="#V">V</a></li>
-<li><a href="#W">W</a></li>
-<li><a href="#X">X</a></li>
-<li><a href="#Y">Y</a></li>
-<li><a href="#Z">Z</a></li>
-<li><a href="#See_also">See also</a></li>
-<li><a href="#References">References</a></li>
-<li><a href="#External_links">External links</a></li></ul>
-</div></div></div>
 <dl class="glossary">
 <dt class="glossary" id="&#39;&#39;&#39;j_operator&#39;&#39;&#39;" style="margin-top: 0.4em;"><dfn class="glossary"><b><a href="/wiki/Complex_number" title="Complex number">j operator</a></b></dfn></dt><dd class="glossary">Electrical engineering uses "j" to represent the imaginary unit "i", to prevent confusion with the symbol for current. <span class="mwe-math-element"><span class="mwe-math-mathml-inline mwe-math-mathml-a11y" style="display: none;"><math xmlns="http://www.w3.org/1998/Math/MathML"  alttext="{\displaystyle j\times j=-1}">
   <semantics>
@@ -871,41 +556,6 @@
 <dt class="glossary" id="&#39;&#39;&#39;kirchhoff&#39;s_circuit_laws&#39;&#39;&#39;" style="margin-top: 0.4em;"><dfn class="glossary"><b><a href="/wiki/Kirchhoff%27s_circuit_laws" title="Kirchhoff&#39;s circuit laws">Kirchhoff's circuit laws</a></b></dfn></dt><dd class="glossary">The observation that the sum of currents at any node of a circuit must be zero, and the sum of voltage differences around any loop must be zero; often abbreviated "KCL" and "KVL" in lecture notes.</dd>
 <dt class="glossary" id="&#39;&#39;&#39;klystron&#39;&#39;&#39;" style="margin-top: 0.4em;"><dfn class="glossary"><b><a href="/wiki/Klystron" title="Klystron">Klystron</a></b></dfn></dt><dd class="glossary">A type of microwave oscillator vacuum tube.</dd>
 </dl>
-<div style="text-align:center;"><div role="navigation" id="toc" class="toc plainlinks hlist" aria-labelledby="tocheading" style="margin-left:auto;margin-right:auto; text-align:left;">
-<div id="toctitle" class="toctitle" style="text-align:center;display:inline-block;"><span id="tocheading" style="font-weight:bold;">Contents&#58;&#160;</span></div>
-<div style="margin:auto;white-space:nowrap;display:inline-block;">
-<ul><li><a href="#top">Top</a></li>
-<li><a href="#0–9">0–9</a></li>
-<li><a href="#A">A</a></li>
-<li><a href="#B">B</a></li>
-<li><a href="#C">C</a></li>
-<li><a href="#D">D</a></li>
-<li><a href="#E">E</a></li>
-<li><a href="#F">F</a></li>
-<li><a href="#G">G</a></li>
-<li><a href="#H">H</a></li>
-<li><a href="#I">I</a></li>
-<li><a href="#J">J</a></li>
-<li><a href="#K">K</a></li>
-<li><a href="#L">L</a></li>
-<li><a href="#M">M</a></li>
-<li><a href="#N">N</a></li>
-<li><a href="#O">O</a></li>
-<li><a href="#P">P</a></li>
-<li><a href="#Q">Q</a></li>
-<li><a href="#R">R</a></li>
-<li><a href="#S">S</a></li>
-<li><a href="#T">T</a></li>
-<li><a href="#U">U</a></li>
-<li><a href="#V">V</a></li>
-<li><a href="#W">W</a></li>
-<li><a href="#X">X</a></li>
-<li><a href="#Y">Y</a></li>
-<li><a href="#Z">Z</a></li>
-<li><a href="#See_also">See also</a></li>
-<li><a href="#References">References</a></li>
-<li><a href="#External_links">External links</a></li></ul>
-</div></div></div>
 <dl class="glossary">
 <dt class="glossary" id="&#39;&#39;&#39;lan&#39;&#39;&#39;" style="margin-top: 0.4em;"><dfn class="glossary"><b><a href="/wiki/LAN" class="mw-redirect" title="LAN">LAN</a></b></dfn></dt><dd class="glossary">Local Area Network, an interconnection of computers over a building or small campus.</dd>
 <dt class="glossary" id="&#39;&#39;&#39;laplace_transform&#39;&#39;&#39;" style="margin-top: 0.4em;"><dfn class="glossary"><b><a href="/wiki/Laplace_transform" title="Laplace transform">Laplace transform</a></b></dfn></dt><dd class="glossary">A mathematical operation for solution of differential equations by transforming them to the s domain from the time domain.</dd>
@@ -936,41 +586,6 @@
 <dt class="glossary" id="&#39;&#39;&#39;lumped_parameters&#39;&#39;&#39;" style="margin-top: 0.4em;"><dfn class="glossary"><b><a href="/wiki/Lumped_parameters" class="mw-redirect" title="Lumped parameters">Lumped parameters</a></b></dfn></dt><dd class="glossary">Describes an electrical network where the circuit elements are small compared to the wavelengths of the signals passing through it.</dd>
 <dt class="glossary" id="&#39;&#39;&#39;lyapunov_stability&#39;&#39;&#39;" style="margin-top: 0.4em;"><dfn class="glossary"><b><a href="/wiki/Lyapunov_stability" title="Lyapunov stability">Lyapunov stability</a></b></dfn></dt><dd class="glossary">A criterion for stability of a dynamical system; if disturbances from a stable point reduce and the system returns to that stable point, it can be said to be Lyapunov stable.</dd>
 </dl>
-<div style="text-align:center;"><div role="navigation" id="toc" class="toc plainlinks hlist" aria-labelledby="tocheading" style="margin-left:auto;margin-right:auto; text-align:left;">
-<div id="toctitle" class="toctitle" style="text-align:center;display:inline-block;"><span id="tocheading" style="font-weight:bold;">Contents&#58;&#160;</span></div>
-<div style="margin:auto;white-space:nowrap;display:inline-block;">
-<ul><li><a href="#top">Top</a></li>
-<li><a href="#0–9">0–9</a></li>
-<li><a href="#A">A</a></li>
-<li><a href="#B">B</a></li>
-<li><a href="#C">C</a></li>
-<li><a href="#D">D</a></li>
-<li><a href="#E">E</a></li>
-<li><a href="#F">F</a></li>
-<li><a href="#G">G</a></li>
-<li><a href="#H">H</a></li>
-<li><a href="#I">I</a></li>
-<li><a href="#J">J</a></li>
-<li><a href="#K">K</a></li>
-<li><a href="#L">L</a></li>
-<li><a href="#M">M</a></li>
-<li><a href="#N">N</a></li>
-<li><a href="#O">O</a></li>
-<li><a href="#P">P</a></li>
-<li><a href="#Q">Q</a></li>
-<li><a href="#R">R</a></li>
-<li><a href="#S">S</a></li>
-<li><a href="#T">T</a></li>
-<li><a href="#U">U</a></li>
-<li><a href="#V">V</a></li>
-<li><a href="#W">W</a></li>
-<li><a href="#X">X</a></li>
-<li><a href="#Y">Y</a></li>
-<li><a href="#Z">Z</a></li>
-<li><a href="#See_also">See also</a></li>
-<li><a href="#References">References</a></li>
-<li><a href="#External_links">External links</a></li></ul>
-</div></div></div>
 <dl class="glossary">
 <dt class="glossary" id="&#39;&#39;&#39;machine_learning&#39;&#39;&#39;" style="margin-top: 0.4em;"><dfn class="glossary"><b><a href="/wiki/Machine_learning" title="Machine learning">Machine learning</a></b></dfn></dt><dd class="glossary">The set of artificial intelligence techniques for systems that can follow examples to solve new problems.</dd>
 <dt class="glossary" id="&#39;&#39;&#39;magnet_wire&#39;&#39;&#39;" style="margin-top: 0.4em;"><dfn class="glossary"><b><a href="/wiki/Magnet_wire" title="Magnet wire">Magnet wire</a></b></dfn></dt><dd class="glossary">The class of wire manufactured for winding electromagnetic coils such as in motors or transformers.</dd>
@@ -1041,41 +656,6 @@
 <dt class="glossary" id="&#39;&#39;&#39;multimeter&#39;&#39;&#39;" style="margin-top: 0.4em;"><dfn class="glossary"><b><a href="/wiki/Multimeter" title="Multimeter">Multimeter</a></b></dfn></dt><dd class="glossary">A test instrument that can measure current, voltage or resistance (though  not concurrently).</dd>
 <dt class="glossary" id="&#39;&#39;&#39;multisim&#39;&#39;&#39;" style="margin-top: 0.4em;"><dfn class="glossary"><b><a href="/wiki/Multisim" class="mw-redirect" title="Multisim">Multisim</a></b></dfn></dt><dd class="glossary">A brand of computer software for electronic circuit simulation.</dd>
 </dl>
-<div style="text-align:center;"><div role="navigation" id="toc" class="toc plainlinks hlist" aria-labelledby="tocheading" style="margin-left:auto;margin-right:auto; text-align:left;">
-<div id="toctitle" class="toctitle" style="text-align:center;display:inline-block;"><span id="tocheading" style="font-weight:bold;">Contents&#58;&#160;</span></div>
-<div style="margin:auto;white-space:nowrap;display:inline-block;">
-<ul><li><a href="#top">Top</a></li>
-<li><a href="#0–9">0–9</a></li>
-<li><a href="#A">A</a></li>
-<li><a href="#B">B</a></li>
-<li><a href="#C">C</a></li>
-<li><a href="#D">D</a></li>
-<li><a href="#E">E</a></li>
-<li><a href="#F">F</a></li>
-<li><a href="#G">G</a></li>
-<li><a href="#H">H</a></li>
-<li><a href="#I">I</a></li>
-<li><a href="#J">J</a></li>
-<li><a href="#K">K</a></li>
-<li><a href="#L">L</a></li>
-<li><a href="#M">M</a></li>
-<li><a href="#N">N</a></li>
-<li><a href="#O">O</a></li>
-<li><a href="#P">P</a></li>
-<li><a href="#Q">Q</a></li>
-<li><a href="#R">R</a></li>
-<li><a href="#S">S</a></li>
-<li><a href="#T">T</a></li>
-<li><a href="#U">U</a></li>
-<li><a href="#V">V</a></li>
-<li><a href="#W">W</a></li>
-<li><a href="#X">X</a></li>
-<li><a href="#Y">Y</a></li>
-<li><a href="#Z">Z</a></li>
-<li><a href="#See_also">See also</a></li>
-<li><a href="#References">References</a></li>
-<li><a href="#External_links">External links</a></li></ul>
-</div></div></div>
 <dl class="glossary">
 <dt class="glossary" id="&#39;&#39;&#39;nameplate_capacity&#39;&#39;&#39;" style="margin-top: 0.4em;"><dfn class="glossary"><b><a href="/wiki/Nameplate_capacity" title="Nameplate capacity">Nameplate capacity</a></b></dfn></dt><dd class="glossary">The design power output of a generator, at specified temperature rise.</dd>
 <dt class="glossary" id="&#39;&#39;&#39;nanoinverter&#39;&#39;&#39;" style="margin-top: 0.4em;"><dfn class="glossary"><b><a href="/wiki/Nanoinverter" title="Nanoinverter">Nanoinverter</a></b></dfn></dt><dd class="glossary">Grid tied inverters rated less than 100 watts, useful for connection of single solar PV panels to a building AC power system.</dd>
@@ -1110,41 +690,6 @@
 <dt class="glossary" id="&#39;&#39;&#39;nyquist_stability_criterion&#39;&#39;&#39;" style="margin-top: 0.4em;"><dfn class="glossary"><b><a href="/wiki/Nyquist_stability_criterion" title="Nyquist stability criterion">Nyquist stability criterion</a></b></dfn></dt><dd class="glossary">A graphical technique for evaluating stability of a feedback system.</dd>
 <dt class="glossary" id="&#39;&#39;&#39;nyquist–shannon_sampling_theorem&#39;&#39;&#39;" style="margin-top: 0.4em;"><dfn class="glossary"><b><a href="/wiki/Nyquist%E2%80%93Shannon_sampling_theorem" title="Nyquist–Shannon sampling theorem">Nyquist–Shannon sampling theorem</a></b></dfn></dt><dd class="glossary">A theorem that establishes the necessary rate to accurately sample a band-limited signal.</dd>
 </dl>
-<div style="text-align:center;"><div role="navigation" id="toc" class="toc plainlinks hlist" aria-labelledby="tocheading" style="margin-left:auto;margin-right:auto; text-align:left;">
-<div id="toctitle" class="toctitle" style="text-align:center;display:inline-block;"><span id="tocheading" style="font-weight:bold;">Contents&#58;&#160;</span></div>
-<div style="margin:auto;white-space:nowrap;display:inline-block;">
-<ul><li><a href="#top">Top</a></li>
-<li><a href="#0–9">0–9</a></li>
-<li><a href="#A">A</a></li>
-<li><a href="#B">B</a></li>
-<li><a href="#C">C</a></li>
-<li><a href="#D">D</a></li>
-<li><a href="#E">E</a></li>
-<li><a href="#F">F</a></li>
-<li><a href="#G">G</a></li>
-<li><a href="#H">H</a></li>
-<li><a href="#I">I</a></li>
-<li><a href="#J">J</a></li>
-<li><a href="#K">K</a></li>
-<li><a href="#L">L</a></li>
-<li><a href="#M">M</a></li>
-<li><a href="#N">N</a></li>
-<li><a href="#O">O</a></li>
-<li><a href="#P">P</a></li>
-<li><a href="#Q">Q</a></li>
-<li><a href="#R">R</a></li>
-<li><a href="#S">S</a></li>
-<li><a href="#T">T</a></li>
-<li><a href="#U">U</a></li>
-<li><a href="#V">V</a></li>
-<li><a href="#W">W</a></li>
-<li><a href="#X">X</a></li>
-<li><a href="#Y">Y</a></li>
-<li><a href="#Z">Z</a></li>
-<li><a href="#See_also">See also</a></li>
-<li><a href="#References">References</a></li>
-<li><a href="#External_links">External links</a></li></ul>
-</div></div></div>
 <dl class="glossary">
 
 <dt class="glossary" id="&#39;&#39;&#39;observability&#39;&#39;&#39;" style="margin-top: 0.4em;"><dfn class="glossary"><b><a href="/wiki/Observability" title="Observability">Observability</a></b></dfn></dt><dd class="glossary">In control theory, the measure of how well the internal state of a system corresponds to its measurable outputs.</dd>
@@ -1171,41 +716,6 @@
 <dt class="glossary" id="&#39;&#39;&#39;oxygen-free_copper&#39;&#39;&#39;" style="margin-top: 0.4em;"><dfn class="glossary"><b><a href="/wiki/Oxygen-free_copper" title="Oxygen-free copper">Oxygen-free copper</a></b></dfn></dt><dd class="glossary">A grade of copper preferred for electrical applications for its low electrical resistance.</dd>
 
 </dl>
-<div style="text-align:center;"><div role="navigation" id="toc" class="toc plainlinks hlist" aria-labelledby="tocheading" style="margin-left:auto;margin-right:auto; text-align:left;">
-<div id="toctitle" class="toctitle" style="text-align:center;display:inline-block;"><span id="tocheading" style="font-weight:bold;">Contents&#58;&#160;</span></div>
-<div style="margin:auto;white-space:nowrap;display:inline-block;">
-<ul><li><a href="#top">Top</a></li>
-<li><a href="#0–9">0–9</a></li>
-<li><a href="#A">A</a></li>
-<li><a href="#B">B</a></li>
-<li><a href="#C">C</a></li>
-<li><a href="#D">D</a></li>
-<li><a href="#E">E</a></li>
-<li><a href="#F">F</a></li>
-<li><a href="#G">G</a></li>
-<li><a href="#H">H</a></li>
-<li><a href="#I">I</a></li>
-<li><a href="#J">J</a></li>
-<li><a href="#K">K</a></li>
-<li><a href="#L">L</a></li>
-<li><a href="#M">M</a></li>
-<li><a href="#N">N</a></li>
-<li><a href="#O">O</a></li>
-<li><a href="#P">P</a></li>
-<li><a href="#Q">Q</a></li>
-<li><a href="#R">R</a></li>
-<li><a href="#S">S</a></li>
-<li><a href="#T">T</a></li>
-<li><a href="#U">U</a></li>
-<li><a href="#V">V</a></li>
-<li><a href="#W">W</a></li>
-<li><a href="#X">X</a></li>
-<li><a href="#Y">Y</a></li>
-<li><a href="#Z">Z</a></li>
-<li><a href="#See_also">See also</a></li>
-<li><a href="#References">References</a></li>
-<li><a href="#External_links">External links</a></li></ul>
-</div></div></div>
 <dl class="glossary">
 <dt class="glossary" id="&#39;&#39;&#39;padmount_transformer&#39;&#39;&#39;" style="margin-top: 0.4em;"><dfn class="glossary"><b><a href="/wiki/Padmount_transformer" class="mw-redirect" title="Padmount transformer">Padmount transformer</a></b></dfn></dt><dd class="glossary">A kind of metal enclosed distribution transformer suitable for mounting on grade.</dd>
 <dt class="glossary" id="&#39;&#39;&#39;pantograph_(rail)&#39;&#39;&#39;" style="margin-top: 0.4em;"><dfn class="glossary"><b><a href="/wiki/Pantograph_(rail)" class="mw-redirect" title="Pantograph (rail)">Pantograph (rail)</a></b></dfn></dt><dd class="glossary">A linkage that supports the current collector of an electric locomotive.</dd>
@@ -1294,41 +804,6 @@
 <dt class="glossary" id="&#39;&#39;&#39;push_switch&#39;&#39;&#39;" style="margin-top: 0.4em;"><dfn class="glossary"><b><a href="/wiki/Push_switch" title="Push switch">Push switch</a></b></dfn></dt><dd class="glossary">A device that closes or opens an electrical circuit when pushed.</dd>
 <dt class="glossary" id="&#39;&#39;&#39;push–pull_converter&#39;&#39;&#39;" style="margin-top: 0.4em;"><dfn class="glossary"><b><a href="/wiki/Push%E2%80%93pull_converter" title="Push–pull converter">Push–pull converter</a></b></dfn></dt><dd class="glossary">A converter with two sets of  primary switching elements so that the transformer primary voltage can be reversed on each cycle.</dd>
 </dl>
-<div style="text-align:center;"><div role="navigation" id="toc" class="toc plainlinks hlist" aria-labelledby="tocheading" style="margin-left:auto;margin-right:auto; text-align:left;">
-<div id="toctitle" class="toctitle" style="text-align:center;display:inline-block;"><span id="tocheading" style="font-weight:bold;">Contents&#58;&#160;</span></div>
-<div style="margin:auto;white-space:nowrap;display:inline-block;">
-<ul><li><a href="#top">Top</a></li>
-<li><a href="#0–9">0–9</a></li>
-<li><a href="#A">A</a></li>
-<li><a href="#B">B</a></li>
-<li><a href="#C">C</a></li>
-<li><a href="#D">D</a></li>
-<li><a href="#E">E</a></li>
-<li><a href="#F">F</a></li>
-<li><a href="#G">G</a></li>
-<li><a href="#H">H</a></li>
-<li><a href="#I">I</a></li>
-<li><a href="#J">J</a></li>
-<li><a href="#K">K</a></li>
-<li><a href="#L">L</a></li>
-<li><a href="#M">M</a></li>
-<li><a href="#N">N</a></li>
-<li><a href="#O">O</a></li>
-<li><a href="#P">P</a></li>
-<li><a href="#Q">Q</a></li>
-<li><a href="#R">R</a></li>
-<li><a href="#S">S</a></li>
-<li><a href="#T">T</a></li>
-<li><a href="#U">U</a></li>
-<li><a href="#V">V</a></li>
-<li><a href="#W">W</a></li>
-<li><a href="#X">X</a></li>
-<li><a href="#Y">Y</a></li>
-<li><a href="#Z">Z</a></li>
-<li><a href="#See_also">See also</a></li>
-<li><a href="#References">References</a></li>
-<li><a href="#External_links">External links</a></li></ul>
-</div></div></div>
 <dl class="glossary">
 <dt class="glossary" id="&#39;&#39;&#39;quadrature_booster&#39;&#39;&#39;" style="margin-top: 0.4em;"><dfn class="glossary"><b><a href="/wiki/Quadrature_booster" title="Quadrature booster">Quadrature booster</a></b></dfn></dt><dd class="glossary">A phase shifting transformer that can inject voltages that are time delayed with respect to the input voltage.</dd>
 <dt class="glossary" id="&#39;&#39;&#39;quality_factor&#39;&#39;&#39;" style="margin-top: 0.4em;"><dfn class="glossary"><b><a href="/wiki/Quality_factor" class="mw-redirect" title="Quality factor">Quality factor</a></b></dfn></dt><dd class="glossary">In a resonant circuit, the ratio of stored energy to energy dissipated on each cycle of oscillation.</dd>
@@ -1395,41 +870,6 @@
 <dt class="glossary" id="&#39;&#39;&#39;rotor_(electric)&#39;&#39;&#39;" style="margin-top: 0.4em;"><dfn class="glossary"><b><a href="/wiki/Rotor_(electric)" title="Rotor (electric)">Rotor (electric)</a></b></dfn></dt><dd class="glossary">That part of an electrical machine that rotates. Not necessarily the armature.</dd>
 <dt class="glossary" id="&#39;&#39;&#39;routh–hurwitz_stability_criterion&#39;&#39;&#39;" style="margin-top: 0.4em;"><dfn class="glossary"><b><a href="/wiki/Routh%E2%80%93Hurwitz_stability_criterion" title="Routh–Hurwitz stability criterion">Routh–Hurwitz stability criterion</a></b></dfn></dt><dd class="glossary">A criterion for predicting the stability of a system with a given transfer function.</dd>
 </dl>
-<div style="text-align:center;"><div role="navigation" id="toc" class="toc plainlinks hlist" aria-labelledby="tocheading" style="margin-left:auto;margin-right:auto; text-align:left;">
-<div id="toctitle" class="toctitle" style="text-align:center;display:inline-block;"><span id="tocheading" style="font-weight:bold;">Contents&#58;&#160;</span></div>
-<div style="margin:auto;white-space:nowrap;display:inline-block;">
-<ul><li><a href="#top">Top</a></li>
-<li><a href="#0–9">0–9</a></li>
-<li><a href="#A">A</a></li>
-<li><a href="#B">B</a></li>
-<li><a href="#C">C</a></li>
-<li><a href="#D">D</a></li>
-<li><a href="#E">E</a></li>
-<li><a href="#F">F</a></li>
-<li><a href="#G">G</a></li>
-<li><a href="#H">H</a></li>
-<li><a href="#I">I</a></li>
-<li><a href="#J">J</a></li>
-<li><a href="#K">K</a></li>
-<li><a href="#L">L</a></li>
-<li><a href="#M">M</a></li>
-<li><a href="#N">N</a></li>
-<li><a href="#O">O</a></li>
-<li><a href="#P">P</a></li>
-<li><a href="#Q">Q</a></li>
-<li><a href="#R">R</a></li>
-<li><a href="#S">S</a></li>
-<li><a href="#T">T</a></li>
-<li><a href="#U">U</a></li>
-<li><a href="#V">V</a></li>
-<li><a href="#W">W</a></li>
-<li><a href="#X">X</a></li>
-<li><a href="#Y">Y</a></li>
-<li><a href="#Z">Z</a></li>
-<li><a href="#See_also">See also</a></li>
-<li><a href="#References">References</a></li>
-<li><a href="#External_links">External links</a></li></ul>
-</div></div></div>
 <dl class="glossary">
 <dt class="glossary" id="&#39;&#39;&#39;sallen–key_filter&#39;&#39;&#39;" style="margin-top: 0.4em;"><dfn class="glossary"><b><a href="/wiki/Sallen%E2%80%93Key_filter" class="mw-redirect" title="Sallen–Key filter">Sallen–Key filter</a></b></dfn></dt><dd class="glossary">A family of active filters with a second-order characteristic, first described in 1955.</dd>
 <dt class="glossary" id="&#39;&#39;&#39;sample_and_hold&#39;&#39;&#39;" style="margin-top: 0.4em;"><dfn class="glossary"><b><a href="/wiki/Sample_and_hold" title="Sample and hold">Sample and hold</a></b></dfn></dt><dd class="glossary">A circuit that takes a sample of a changing analog value and holds onto it until the value can be processed by some other stage.</dd>
@@ -1539,41 +979,6 @@
 <dt class="glossary" id="&#39;&#39;&#39;system_on_a_chip&#39;&#39;&#39;" style="margin-top: 0.4em;"><dfn class="glossary"><b><a href="/wiki/System_on_a_chip" title="System on a chip">System on a chip</a></b></dfn></dt><dd class="glossary">An integrated circuit that combines multiple significant subsytems of a product on one die, for example, analog signal processing and digital controls.</dd>
 <dt class="glossary" id="&#39;&#39;&#39;system_on_module&#39;&#39;&#39;" style="margin-top: 0.4em;"><dfn class="glossary"><b><a href="/wiki/System_on_module" title="System on module">System on module</a></b></dfn></dt><dd class="glossary">A packaging of significant functions of a complete product in a form that can be used in more than one product.</dd>
 </dl>
-<div style="text-align:center;"><div role="navigation" id="toc" class="toc plainlinks hlist" aria-labelledby="tocheading" style="margin-left:auto;margin-right:auto; text-align:left;">
-<div id="toctitle" class="toctitle" style="text-align:center;display:inline-block;"><span id="tocheading" style="font-weight:bold;">Contents&#58;&#160;</span></div>
-<div style="margin:auto;white-space:nowrap;display:inline-block;">
-<ul><li><a href="#top">Top</a></li>
-<li><a href="#0–9">0–9</a></li>
-<li><a href="#A">A</a></li>
-<li><a href="#B">B</a></li>
-<li><a href="#C">C</a></li>
-<li><a href="#D">D</a></li>
-<li><a href="#E">E</a></li>
-<li><a href="#F">F</a></li>
-<li><a href="#G">G</a></li>
-<li><a href="#H">H</a></li>
-<li><a href="#I">I</a></li>
-<li><a href="#J">J</a></li>
-<li><a href="#K">K</a></li>
-<li><a href="#L">L</a></li>
-<li><a href="#M">M</a></li>
-<li><a href="#N">N</a></li>
-<li><a href="#O">O</a></li>
-<li><a href="#P">P</a></li>
-<li><a href="#Q">Q</a></li>
-<li><a href="#R">R</a></li>
-<li><a href="#S">S</a></li>
-<li><a href="#T">T</a></li>
-<li><a href="#U">U</a></li>
-<li><a href="#V">V</a></li>
-<li><a href="#W">W</a></li>
-<li><a href="#X">X</a></li>
-<li><a href="#Y">Y</a></li>
-<li><a href="#Z">Z</a></li>
-<li><a href="#See_also">See also</a></li>
-<li><a href="#References">References</a></li>
-<li><a href="#External_links">External links</a></li></ul>
-</div></div></div>
 <dl class="glossary">
 <dt class="glossary" id="&#39;&#39;&#39;tachometer&#39;&#39;&#39;" style="margin-top: 0.4em;"><dfn class="glossary"><b><a href="/wiki/Tachometer" title="Tachometer">Tachometer</a></b></dfn></dt><dd class="glossary">An instrument that measures rotational speed (or angular velocity).</dd>
 <dt class="glossary" id="&#39;&#39;&#39;tap_(transformer)&#39;&#39;&#39;" style="margin-top: 0.4em;"><dfn class="glossary"><b><a href="/wiki/Tap_(transformer)" class="mw-redirect" title="Tap (transformer)">Tap (transformer)</a></b></dfn></dt><dd class="glossary">A connection to a winding at some point between the ends, used to adjust voltage.</dd>
@@ -1644,41 +1049,6 @@
 <dt class="glossary" id="&#39;&#39;&#39;two-port_network&#39;&#39;&#39;" style="margin-top: 0.4em;"><dfn class="glossary"><b><a href="/wiki/Two-port_network" title="Two-port network">Two-port network</a></b></dfn></dt><dd class="glossary">A network that has two places to exchange energy with its surroundings.</dd>
 <dt class="glossary" id="&#39;&#39;&#39;two-sided_laplace_transform&#39;&#39;&#39;" style="margin-top: 0.4em;"><dfn class="glossary"><b><a href="/wiki/Two-sided_Laplace_transform" title="Two-sided Laplace transform">Two-sided Laplace transform</a></b></dfn></dt><dd class="glossary">A variant of the Laplace transform that simplifies certain operations.</dd>
 </dl>
-<div style="text-align:center;"><div role="navigation" id="toc" class="toc plainlinks hlist" aria-labelledby="tocheading" style="margin-left:auto;margin-right:auto; text-align:left;">
-<div id="toctitle" class="toctitle" style="text-align:center;display:inline-block;"><span id="tocheading" style="font-weight:bold;">Contents&#58;&#160;</span></div>
-<div style="margin:auto;white-space:nowrap;display:inline-block;">
-<ul><li><a href="#top">Top</a></li>
-<li><a href="#0–9">0–9</a></li>
-<li><a href="#A">A</a></li>
-<li><a href="#B">B</a></li>
-<li><a href="#C">C</a></li>
-<li><a href="#D">D</a></li>
-<li><a href="#E">E</a></li>
-<li><a href="#F">F</a></li>
-<li><a href="#G">G</a></li>
-<li><a href="#H">H</a></li>
-<li><a href="#I">I</a></li>
-<li><a href="#J">J</a></li>
-<li><a href="#K">K</a></li>
-<li><a href="#L">L</a></li>
-<li><a href="#M">M</a></li>
-<li><a href="#N">N</a></li>
-<li><a href="#O">O</a></li>
-<li><a href="#P">P</a></li>
-<li><a href="#Q">Q</a></li>
-<li><a href="#R">R</a></li>
-<li><a href="#S">S</a></li>
-<li><a href="#T">T</a></li>
-<li><a href="#U">U</a></li>
-<li><a href="#V">V</a></li>
-<li><a href="#W">W</a></li>
-<li><a href="#X">X</a></li>
-<li><a href="#Y">Y</a></li>
-<li><a href="#Z">Z</a></li>
-<li><a href="#See_also">See also</a></li>
-<li><a href="#References">References</a></li>
-<li><a href="#External_links">External links</a></li></ul>
-</div></div></div>
 <dl class="glossary">
 <dt class="glossary" id="&#39;&#39;&#39;ubiquitous_computing&#39;&#39;&#39;" style="margin-top: 0.4em;"><dfn class="glossary"><b><a href="/wiki/Ubiquitous_computing" title="Ubiquitous computing">Ubiquitous computing</a></b></dfn></dt><dd class="glossary">A scenario where computer science is made to appear everywhere.</dd>
 <dt class="glossary" id="&#39;&#39;&#39;ultrasonic_motor&#39;&#39;&#39;" style="margin-top: 0.4em;"><dfn class="glossary"><b><a href="/wiki/Ultrasonic_motor" title="Ultrasonic motor">Ultrasonic motor</a></b></dfn></dt><dd class="glossary">A motor that relies on a component oscillating at an ultrasonic frequency.</dd>
@@ -1693,41 +1063,6 @@
 <dt class="glossary" id="&#39;&#39;&#39;utility_frequency&#39;&#39;&#39;" style="margin-top: 0.4em;"><dfn class="glossary"><b><a href="/wiki/Utility_frequency" title="Utility frequency">Utility frequency</a></b></dfn></dt><dd class="glossary">60 or 50 cycles per second, used for electric power.</dd>
 <dt class="glossary" id="&#39;&#39;&#39;utility_pole&#39;&#39;&#39;" style="margin-top: 0.4em;"><dfn class="glossary"><b><a href="/wiki/Utility_pole" title="Utility pole">Utility pole</a></b></dfn></dt><dd class="glossary">A columnar structure that carries wires for electrical power distribution, cable television, telephone or similar services.</dd>
 </dl>
-<div style="text-align:center;"><div role="navigation" id="toc" class="toc plainlinks hlist" aria-labelledby="tocheading" style="margin-left:auto;margin-right:auto; text-align:left;">
-<div id="toctitle" class="toctitle" style="text-align:center;display:inline-block;"><span id="tocheading" style="font-weight:bold;">Contents&#58;&#160;</span></div>
-<div style="margin:auto;white-space:nowrap;display:inline-block;">
-<ul><li><a href="#top">Top</a></li>
-<li><a href="#0–9">0–9</a></li>
-<li><a href="#A">A</a></li>
-<li><a href="#B">B</a></li>
-<li><a href="#C">C</a></li>
-<li><a href="#D">D</a></li>
-<li><a href="#E">E</a></li>
-<li><a href="#F">F</a></li>
-<li><a href="#G">G</a></li>
-<li><a href="#H">H</a></li>
-<li><a href="#I">I</a></li>
-<li><a href="#J">J</a></li>
-<li><a href="#K">K</a></li>
-<li><a href="#L">L</a></li>
-<li><a href="#M">M</a></li>
-<li><a href="#N">N</a></li>
-<li><a href="#O">O</a></li>
-<li><a href="#P">P</a></li>
-<li><a href="#Q">Q</a></li>
-<li><a href="#R">R</a></li>
-<li><a href="#S">S</a></li>
-<li><a href="#T">T</a></li>
-<li><a href="#U">U</a></li>
-<li><a href="#V">V</a></li>
-<li><a href="#W">W</a></li>
-<li><a href="#X">X</a></li>
-<li><a href="#Y">Y</a></li>
-<li><a href="#Z">Z</a></li>
-<li><a href="#See_also">See also</a></li>
-<li><a href="#References">References</a></li>
-<li><a href="#External_links">External links</a></li></ul>
-</div></div></div>
 <dl class="glossary">
 <dt class="glossary" id="&#39;&#39;&#39;vacuum_capacitor&#39;&#39;&#39;" style="margin-top: 0.4em;"><dfn class="glossary"><b><a href="/wiki/Vacuum_capacitor" class="mw-redirect" title="Vacuum capacitor">Vacuum capacitor</a></b></dfn></dt><dd class="glossary">A capacitor using vacuum as its dielectric; useful at high voltages or radio frequency.</dd>
 <dt class="glossary" id="&#39;&#39;&#39;vacuum_tube&#39;&#39;&#39;" style="margin-top: 0.4em;"><dfn class="glossary"><b><a href="/wiki/Vacuum_tube" title="Vacuum tube">Vacuum tube</a></b></dfn></dt><dd class="glossary">An electron device that relies on flow of electrons through a vacuum or low-pressure gas; a valve. The first electronic devices that could amplify.</dd>
@@ -1765,41 +1100,6 @@
 <dt class="glossary" id="&#39;&#39;&#39;volt-ampere&#39;&#39;&#39;" style="margin-top: 0.4em;"><dfn class="glossary"><b><a href="/wiki/Volt-ampere" title="Volt-ampere">Volt-ampere</a></b></dfn></dt><dd class="glossary">The unit of apparent power in an AC circuit.</dd>
 <dt class="glossary" id="&#39;&#39;&#39;voltmeter&#39;&#39;&#39;" style="margin-top: 0.4em;"><dfn class="glossary"><b><a href="/wiki/Voltmeter" title="Voltmeter">Voltmeter</a></b></dfn></dt><dd class="glossary">An instrument for measuring potential difference.</dd>
 </dl>
-<div style="text-align:center;"><div role="navigation" id="toc" class="toc plainlinks hlist" aria-labelledby="tocheading" style="margin-left:auto;margin-right:auto; text-align:left;">
-<div id="toctitle" class="toctitle" style="text-align:center;display:inline-block;"><span id="tocheading" style="font-weight:bold;">Contents&#58;&#160;</span></div>
-<div style="margin:auto;white-space:nowrap;display:inline-block;">
-<ul><li><a href="#top">Top</a></li>
-<li><a href="#0–9">0–9</a></li>
-<li><a href="#A">A</a></li>
-<li><a href="#B">B</a></li>
-<li><a href="#C">C</a></li>
-<li><a href="#D">D</a></li>
-<li><a href="#E">E</a></li>
-<li><a href="#F">F</a></li>
-<li><a href="#G">G</a></li>
-<li><a href="#H">H</a></li>
-<li><a href="#I">I</a></li>
-<li><a href="#J">J</a></li>
-<li><a href="#K">K</a></li>
-<li><a href="#L">L</a></li>
-<li><a href="#M">M</a></li>
-<li><a href="#N">N</a></li>
-<li><a href="#O">O</a></li>
-<li><a href="#P">P</a></li>
-<li><a href="#Q">Q</a></li>
-<li><a href="#R">R</a></li>
-<li><a href="#S">S</a></li>
-<li><a href="#T">T</a></li>
-<li><a href="#U">U</a></li>
-<li><a href="#V">V</a></li>
-<li><a href="#W">W</a></li>
-<li><a href="#X">X</a></li>
-<li><a href="#Y">Y</a></li>
-<li><a href="#Z">Z</a></li>
-<li><a href="#See_also">See also</a></li>
-<li><a href="#References">References</a></li>
-<li><a href="#External_links">External links</a></li></ul>
-</div></div></div>
 <dl class="glossary">
 <dt class="glossary" id="&#39;&#39;&#39;war_of_the_currents&#39;&#39;&#39;" style="margin-top: 0.4em;"><dfn class="glossary"><b><a href="/wiki/War_of_the_currents" title="War of the currents">War of the currents</a></b></dfn></dt><dd class="glossary">The late 19th century commercial dispute on whether AC or DC was the best system for power distribution.</dd>
 <dt class="glossary" id="&#39;&#39;&#39;ward_leonard_control&#39;&#39;&#39;" style="margin-top: 0.4em;"><dfn class="glossary"><b><a href="/wiki/Ward_Leonard_control" title="Ward Leonard control">Ward Leonard control</a></b></dfn></dt><dd class="glossary">A speed control system for DC machines using an interconnected generator and motor.</dd>
