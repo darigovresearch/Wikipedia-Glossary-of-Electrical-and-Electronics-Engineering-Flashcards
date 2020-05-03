@@ -1,4 +1,3 @@
-<h2><span class="mw-headline" id="A">A</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Glossary_of_electrical_and_electronics_engineering&amp;action=edit&amp;section=1" title="Edit section: A">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
 <dl class="glossary">
 <dt class="glossary" id="&#39;&#39;&#39;ac_adapter&#39;&#39;&#39;" style="margin-top: 0.4em;"><dfn class="glossary"><b><a href="/wiki/AC_adapter" title="AC adapter">AC adapter</a></b></dfn></dt> <dd class="glossary">An external power supply for portable devices that allows them to operate from wall-socket electricity.</dd>
 <dt class="glossary" id="&#39;&#39;&#39;ac_power_plugs_and_sockets&#39;&#39;&#39;" style="margin-top: 0.4em;"><dfn class="glossary"><b><a href="/wiki/AC_power_plugs_and_sockets" title="AC power plugs and sockets">AC power plugs and sockets</a></b></dfn></dt> <dd class="glossary">Electrical connectors used with alternating current.</dd>
@@ -103,7 +102,6 @@
 <li><a href="#References">References</a></li>
 <li><a href="#External_links">External links</a></li></ul>
 </div></div></div>
-<h2><span class="mw-headline" id="B">B</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Glossary_of_electrical_and_electronics_engineering&amp;action=edit&amp;section=2" title="Edit section: B">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
 <dl class="glossary">
 <dt class="glossary" id="&#39;&#39;&#39;backward_wave_oscillator&#39;&#39;&#39;" style="margin-top: 0.4em;"><dfn class="glossary"><b><a href="/wiki/Backward_wave_oscillator" class="mw-redirect" title="Backward wave oscillator">Backward wave oscillator</a></b></dfn></dt><dd class="glossary">A type of microwave oscillator vacuum tube.</dd>
 <dt class="glossary" id="&#39;&#39;&#39;balanced_line&#39;&#39;&#39;" style="margin-top: 0.4em;"><dfn class="glossary"><b><a href="/wiki/Balanced_line" title="Balanced line">Balanced line</a></b></dfn></dt><dd class="glossary">A transmission line with two conductors, with equal impedances to earth ground.</dd>
@@ -187,7 +185,6 @@
 <li><a href="#References">References</a></li>
 <li><a href="#External_links">External links</a></li></ul>
 </div></div></div>
-<h2><span class="mw-headline" id="C">C</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Glossary_of_electrical_and_electronics_engineering&amp;action=edit&amp;section=3" title="Edit section: C">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
 <dl class="glossary">
 <dt class="glossary" id="&#39;&#39;&#39;canadian_electrical_code&#39;&#39;&#39;" style="margin-top: 0.4em;"><dfn class="glossary"><b><a href="/wiki/Canadian_Electrical_Code" title="Canadian Electrical Code">Canadian Electrical Code</a></b></dfn></dt><dd class="glossary">The technical standard for building wiring in Canada.</dd>
 <dt class="glossary" id="&#39;&#39;&#39;canadian_standards_association&#39;&#39;&#39;" style="margin-top: 0.4em;"><dfn class="glossary"><b><a href="/wiki/Canadian_Standards_Association" class="mw-redirect" title="Canadian Standards Association">Canadian Standards Association</a></b></dfn></dt><dd class="glossary">Non-profit organization that develops electrical and other technical standards.</dd>
@@ -314,7 +311,6 @@
 <li><a href="#References">References</a></li>
 <li><a href="#External_links">External links</a></li></ul>
 </div></div></div>
-<h2><span class="mw-headline" id="D">D</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Glossary_of_electrical_and_electronics_engineering&amp;action=edit&amp;section=4" title="Edit section: D">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
 <dl class="glossary">
 <dt class="glossary" id="&#39;&#39;&#39;damping_ratio&#39;&#39;&#39;" style="margin-top: 0.4em;"><dfn class="glossary"><b><a href="/wiki/Damping_ratio" title="Damping ratio">Damping ratio</a></b></dfn></dt> <dd class="glossary">A parameter that indicates how rapidly oscillations in a system die out, if ever.</dd>
 <dt class="glossary" id="&#39;&#39;&#39;darlington_transistor&#39;&#39;&#39;" style="margin-top: 0.4em;"><dfn class="glossary"><b><a href="/wiki/Darlington_transistor" title="Darlington transistor">Darlington transistor</a></b></dfn></dt> <dd class="glossary">An interconnection of two transistors to provide a gain that is the product of the individual gains.</dd>
@@ -412,7 +408,6 @@
 <li><a href="#References">References</a></li>
 <li><a href="#External_links">External links</a></li></ul>
 </div></div></div>
-<h2><span class="mw-headline" id="E">E</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Glossary_of_electrical_and_electronics_engineering&amp;action=edit&amp;section=5" title="Edit section: E">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
 <dl class="glossary">
 <dt class="glossary" id="&#39;&#39;&#39;earth_leakage_circuit_breaker&#39;&#39;&#39;" style="margin-top: 0.4em;"><dfn class="glossary"><b><a href="/wiki/Earth_leakage_circuit_breaker" title="Earth leakage circuit breaker">Earth leakage circuit breaker</a></b></dfn></dt> <dd class="glossary">A protective device that opens a circuit when stray voltage or current detected that would present a hazard of electric shock.</dd>
 <dt class="glossary" id="&#39;&#39;&#39;eddy_current&#39;&#39;&#39;" style="margin-top: 0.4em;"><dfn class="glossary"><b><a href="/wiki/Eddy_current" title="Eddy current">Eddy current</a></b></dfn></dt> <dd class="glossary">A current induced inside a conductor exposed to a changing magnetic field.</dd>
@@ -553,7 +548,6 @@
 <li><a href="#References">References</a></li>
 <li><a href="#External_links">External links</a></li></ul>
 </div></div></div>
-<h2><span class="mw-headline" id="F">F</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Glossary_of_electrical_and_electronics_engineering&amp;action=edit&amp;section=6" title="Edit section: F">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
 <dl class="glossary">
 
 <dt class="glossary" id="&#39;&#39;&#39;farad&#39;&#39;&#39;" style="margin-top: 0.4em;"><dfn class="glossary"><b><a href="/wiki/Farad" title="Farad">Farad</a></b></dfn></dt><dd class="glossary">The SI unit of capacitance.</dd>
@@ -634,7 +628,6 @@
 <li><a href="#References">References</a></li>
 <li><a href="#External_links">External links</a></li></ul>
 </div></div></div>
-<h2><span class="mw-headline" id="G">G</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Glossary_of_electrical_and_electronics_engineering&amp;action=edit&amp;section=7" title="Edit section: G">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
 <dl class="glossary">
 <dt class="glossary" id="&#39;&#39;&#39;gain_scheduling&#39;&#39;&#39;" style="margin-top: 0.4em;"><dfn class="glossary"><b><a href="/wiki/Gain_scheduling" title="Gain scheduling">Gain scheduling</a></b></dfn></dt> <dd class="glossary">A technique for control of non-linear systems that use different control parameters based on some measurement of the process controlled.</dd>
 <dt class="glossary" id="&#39;&#39;&#39;galvanic_corrosion&#39;&#39;&#39;" style="margin-top: 0.4em;"><dfn class="glossary"><b><a href="/wiki/Galvanic_corrosion" title="Galvanic corrosion">Galvanic corrosion</a></b></dfn></dt> <dd class="glossary">Electrochemical corrosion of one metal in contact with another.</dd>
@@ -693,7 +686,6 @@
 <li><a href="#References">References</a></li>
 <li><a href="#External_links">External links</a></li></ul>
 </div></div></div>
-<h2><span class="mw-headline" id="H">H</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Glossary_of_electrical_and_electronics_engineering&amp;action=edit&amp;section=8" title="Edit section: H">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
 <dl class="glossary">
 <dt class="glossary" id="&#39;&#39;&#39;h_infinity&#39;&#39;&#39;" style="margin-top: 0.4em;"><dfn class="glossary"><b><a href="/wiki/H_infinity" class="mw-redirect" title="H infinity">H infinity</a></b></dfn></dt><dd class="glossary">An optimization strategy for certain classes of control problems.</dd>
 <dt class="glossary" id="&#39;&#39;&#39;hall_effect_sensor&#39;&#39;&#39;" style="margin-top: 0.4em;"><dfn class="glossary"><b><a href="/wiki/Hall_effect_sensor" title="Hall effect sensor">Hall effect sensor</a></b></dfn></dt><dd class="glossary">A device that detects and measures magnetic field by the Hall effect voltage induced in a current-carrying semiconductor.</dd>
@@ -771,7 +763,6 @@
 <li><a href="#References">References</a></li>
 <li><a href="#External_links">External links</a></li></ul>
 </div></div></div>
-<h2><span class="mw-headline" id="I">I</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Glossary_of_electrical_and_electronics_engineering&amp;action=edit&amp;section=9" title="Edit section: I">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
 <dl class="glossary">
 
 <dt class="glossary" id="&#39;&#39;&#39;igbt&#39;&#39;&#39;" style="margin-top: 0.4em;"><dfn class="glossary"><b><a href="/wiki/IGBT" class="mw-redirect" title="IGBT">IGBT</a></b></dfn></dt><dd class="glossary">Insulated Gate Bipolar Transistor, a power semiconductor device that combines some of the advantages of field-effect and bipolar transistors.</dd>
@@ -851,7 +842,6 @@
 <li><a href="#References">References</a></li>
 <li><a href="#External_links">External links</a></li></ul>
 </div></div></div>
-<h2><span class="mw-headline" id="J">J</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Glossary_of_electrical_and_electronics_engineering&amp;action=edit&amp;section=10" title="Edit section: J">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
 <dl class="glossary">
 <dt class="glossary" id="&#39;&#39;&#39;j_operator&#39;&#39;&#39;" style="margin-top: 0.4em;"><dfn class="glossary"><b><a href="/wiki/Complex_number" title="Complex number">j operator</a></b></dfn></dt><dd class="glossary">Electrical engineering uses "j" to represent the imaginary unit "i", to prevent confusion with the symbol for current. <span class="mwe-math-element"><span class="mwe-math-mathml-inline mwe-math-mathml-a11y" style="display: none;"><math xmlns="http://www.w3.org/1998/Math/MathML"  alttext="{\displaystyle j\times j=-1}">
   <semantics>
@@ -874,7 +864,6 @@
 <dt class="glossary" id="&#39;&#39;&#39;joule_heating&#39;&#39;&#39;" style="margin-top: 0.4em;"><dfn class="glossary"><b><a href="/wiki/Joule_heating" title="Joule heating">Joule heating</a></b></dfn></dt><dd class="glossary">Heating in a conductor due to passage of current.</dd>
 <dt class="glossary" id="&#39;&#39;&#39;joule&#39;&#39;&#39;" style="margin-top: 0.4em;"><dfn class="glossary"><b><a href="/wiki/Joule" title="Joule">Joule</a></b></dfn></dt><dd class="glossary">The SI unit of work; one joule is of the order of the energy dissipated when an apple falls off a table top.</dd>
 </dl>
-<h2><span class="mw-headline" id="K">K</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Glossary_of_electrical_and_electronics_engineering&amp;action=edit&amp;section=11" title="Edit section: K">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
 <dl class="glossary">
 <dt class="glossary" id="&#39;&#39;&#39;kalman_filter&#39;&#39;&#39;" style="margin-top: 0.4em;"><dfn class="glossary"><b><a href="/wiki/Kalman_filter" title="Kalman filter">Kalman filter</a></b></dfn></dt><dd class="glossary">An alrogithm for estimating an unknown value from a series of approximate measurements.</dd>
 <dt class="glossary" id="&#39;&#39;&#39;kelvin–stokes_theorem&#39;&#39;&#39;" style="margin-top: 0.4em;"><dfn class="glossary"><b><a href="/wiki/Kelvin%E2%80%93Stokes_theorem" title="Kelvin–Stokes theorem">Kelvin–Stokes theorem</a></b></dfn></dt><dd class="glossary">A theorem in calculus, useful in analytic solutions of problems in electromagnetism.</dd>
@@ -917,7 +906,6 @@
 <li><a href="#References">References</a></li>
 <li><a href="#External_links">External links</a></li></ul>
 </div></div></div>
-<h2><span class="mw-headline" id="L">L</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Glossary_of_electrical_and_electronics_engineering&amp;action=edit&amp;section=12" title="Edit section: L">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
 <dl class="glossary">
 <dt class="glossary" id="&#39;&#39;&#39;lan&#39;&#39;&#39;" style="margin-top: 0.4em;"><dfn class="glossary"><b><a href="/wiki/LAN" class="mw-redirect" title="LAN">LAN</a></b></dfn></dt><dd class="glossary">Local Area Network, an interconnection of computers over a building or small campus.</dd>
 <dt class="glossary" id="&#39;&#39;&#39;laplace_transform&#39;&#39;&#39;" style="margin-top: 0.4em;"><dfn class="glossary"><b><a href="/wiki/Laplace_transform" title="Laplace transform">Laplace transform</a></b></dfn></dt><dd class="glossary">A mathematical operation for solution of differential equations by transforming them to the s domain from the time domain.</dd>
@@ -983,7 +971,6 @@
 <li><a href="#References">References</a></li>
 <li><a href="#External_links">External links</a></li></ul>
 </div></div></div>
-<h2><span class="mw-headline" id="M">M</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Glossary_of_electrical_and_electronics_engineering&amp;action=edit&amp;section=13" title="Edit section: M">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
 <dl class="glossary">
 <dt class="glossary" id="&#39;&#39;&#39;machine_learning&#39;&#39;&#39;" style="margin-top: 0.4em;"><dfn class="glossary"><b><a href="/wiki/Machine_learning" title="Machine learning">Machine learning</a></b></dfn></dt><dd class="glossary">The set of artificial intelligence techniques for systems that can follow examples to solve new problems.</dd>
 <dt class="glossary" id="&#39;&#39;&#39;magnet_wire&#39;&#39;&#39;" style="margin-top: 0.4em;"><dfn class="glossary"><b><a href="/wiki/Magnet_wire" title="Magnet wire">Magnet wire</a></b></dfn></dt><dd class="glossary">The class of wire manufactured for winding electromagnetic coils such as in motors or transformers.</dd>
@@ -1089,7 +1076,6 @@
 <li><a href="#References">References</a></li>
 <li><a href="#External_links">External links</a></li></ul>
 </div></div></div>
-<h2><span class="mw-headline" id="N">N</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Glossary_of_electrical_and_electronics_engineering&amp;action=edit&amp;section=14" title="Edit section: N">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
 <dl class="glossary">
 <dt class="glossary" id="&#39;&#39;&#39;nameplate_capacity&#39;&#39;&#39;" style="margin-top: 0.4em;"><dfn class="glossary"><b><a href="/wiki/Nameplate_capacity" title="Nameplate capacity">Nameplate capacity</a></b></dfn></dt><dd class="glossary">The design power output of a generator, at specified temperature rise.</dd>
 <dt class="glossary" id="&#39;&#39;&#39;nanoinverter&#39;&#39;&#39;" style="margin-top: 0.4em;"><dfn class="glossary"><b><a href="/wiki/Nanoinverter" title="Nanoinverter">Nanoinverter</a></b></dfn></dt><dd class="glossary">Grid tied inverters rated less than 100 watts, useful for connection of single solar PV panels to a building AC power system.</dd>
@@ -1159,7 +1145,6 @@
 <li><a href="#References">References</a></li>
 <li><a href="#External_links">External links</a></li></ul>
 </div></div></div>
-<h2><span class="mw-headline" id="O">O</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Glossary_of_electrical_and_electronics_engineering&amp;action=edit&amp;section=15" title="Edit section: O">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
 <dl class="glossary">
 
 <dt class="glossary" id="&#39;&#39;&#39;observability&#39;&#39;&#39;" style="margin-top: 0.4em;"><dfn class="glossary"><b><a href="/wiki/Observability" title="Observability">Observability</a></b></dfn></dt><dd class="glossary">In control theory, the measure of how well the internal state of a system corresponds to its measurable outputs.</dd>
@@ -1221,7 +1206,6 @@
 <li><a href="#References">References</a></li>
 <li><a href="#External_links">External links</a></li></ul>
 </div></div></div>
-<h2><span class="mw-headline" id="P">P</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Glossary_of_electrical_and_electronics_engineering&amp;action=edit&amp;section=16" title="Edit section: P">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
 <dl class="glossary">
 <dt class="glossary" id="&#39;&#39;&#39;padmount_transformer&#39;&#39;&#39;" style="margin-top: 0.4em;"><dfn class="glossary"><b><a href="/wiki/Padmount_transformer" class="mw-redirect" title="Padmount transformer">Padmount transformer</a></b></dfn></dt><dd class="glossary">A kind of metal enclosed distribution transformer suitable for mounting on grade.</dd>
 <dt class="glossary" id="&#39;&#39;&#39;pantograph_(rail)&#39;&#39;&#39;" style="margin-top: 0.4em;"><dfn class="glossary"><b><a href="/wiki/Pantograph_(rail)" class="mw-redirect" title="Pantograph (rail)">Pantograph (rail)</a></b></dfn></dt><dd class="glossary">A linkage that supports the current collector of an electric locomotive.</dd>
@@ -1345,13 +1329,11 @@
 <li><a href="#References">References</a></li>
 <li><a href="#External_links">External links</a></li></ul>
 </div></div></div>
-<h2><span class="mw-headline" id="Q">Q</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Glossary_of_electrical_and_electronics_engineering&amp;action=edit&amp;section=17" title="Edit section: Q">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
 <dl class="glossary">
 <dt class="glossary" id="&#39;&#39;&#39;quadrature_booster&#39;&#39;&#39;" style="margin-top: 0.4em;"><dfn class="glossary"><b><a href="/wiki/Quadrature_booster" title="Quadrature booster">Quadrature booster</a></b></dfn></dt><dd class="glossary">A phase shifting transformer that can inject voltages that are time delayed with respect to the input voltage.</dd>
 <dt class="glossary" id="&#39;&#39;&#39;quality_factor&#39;&#39;&#39;" style="margin-top: 0.4em;"><dfn class="glossary"><b><a href="/wiki/Quality_factor" class="mw-redirect" title="Quality factor">Quality factor</a></b></dfn></dt><dd class="glossary">In a resonant circuit, the ratio of stored energy to energy dissipated on each cycle of oscillation.</dd>
 <dt class="glossary" id="&#39;&#39;&#39;quantization&#39;&#39;&#39;" style="margin-top: 0.4em;"><dfn class="glossary"><b><a href="/wiki/Quantization_(signal_processing)" title="Quantization (signal processing)">Quantization</a></b></dfn></dt><dd class="glossary">Analog to digital conversion, changing a continuously varying analog signal to discrete digital numbers.</dd>
 </dl>
-<h2><span class="mw-headline" id="R">R</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Glossary_of_electrical_and_electronics_engineering&amp;action=edit&amp;section=18" title="Edit section: R">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
 <dl class="glossary">
 <dt class="glossary" id="&#39;&#39;&#39;radar_cross_section&#39;&#39;&#39;" style="margin-top: 0.4em;"><dfn class="glossary"><b><a href="/wiki/Radar_cross_section" class="mw-redirect" title="Radar cross section">Radar cross section</a></b></dfn></dt><dd class="glossary">The effective reflecting area of a radar target, which varies with frequency, geometry, and surface composition.</dd>
 <dt class="glossary" id="&#39;&#39;&#39;radar&#39;&#39;&#39;" style="margin-top: 0.4em;"><dfn class="glossary"><b><a href="/wiki/Radar" title="Radar">Radar</a></b></dfn></dt><dd class="glossary">Radio Detection and Ranging, the techniques for observing the speed and position of objects by reflected radio waves.</dd>
@@ -1448,7 +1430,6 @@
 <li><a href="#References">References</a></li>
 <li><a href="#External_links">External links</a></li></ul>
 </div></div></div>
-<h2><span class="mw-headline" id="S">S</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Glossary_of_electrical_and_electronics_engineering&amp;action=edit&amp;section=19" title="Edit section: S">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
 <dl class="glossary">
 <dt class="glossary" id="&#39;&#39;&#39;sallen–key_filter&#39;&#39;&#39;" style="margin-top: 0.4em;"><dfn class="glossary"><b><a href="/wiki/Sallen%E2%80%93Key_filter" class="mw-redirect" title="Sallen–Key filter">Sallen–Key filter</a></b></dfn></dt><dd class="glossary">A family of active filters with a second-order characteristic, first described in 1955.</dd>
 <dt class="glossary" id="&#39;&#39;&#39;sample_and_hold&#39;&#39;&#39;" style="margin-top: 0.4em;"><dfn class="glossary"><b><a href="/wiki/Sample_and_hold" title="Sample and hold">Sample and hold</a></b></dfn></dt><dd class="glossary">A circuit that takes a sample of a changing analog value and holds onto it until the value can be processed by some other stage.</dd>
@@ -1593,7 +1574,6 @@
 <li><a href="#References">References</a></li>
 <li><a href="#External_links">External links</a></li></ul>
 </div></div></div>
-<h2><span class="mw-headline" id="T">T</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Glossary_of_electrical_and_electronics_engineering&amp;action=edit&amp;section=20" title="Edit section: T">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
 <dl class="glossary">
 <dt class="glossary" id="&#39;&#39;&#39;tachometer&#39;&#39;&#39;" style="margin-top: 0.4em;"><dfn class="glossary"><b><a href="/wiki/Tachometer" title="Tachometer">Tachometer</a></b></dfn></dt><dd class="glossary">An instrument that measures rotational speed (or angular velocity).</dd>
 <dt class="glossary" id="&#39;&#39;&#39;tap_(transformer)&#39;&#39;&#39;" style="margin-top: 0.4em;"><dfn class="glossary"><b><a href="/wiki/Tap_(transformer)" class="mw-redirect" title="Tap (transformer)">Tap (transformer)</a></b></dfn></dt><dd class="glossary">A connection to a winding at some point between the ends, used to adjust voltage.</dd>
@@ -1699,7 +1679,6 @@
 <li><a href="#References">References</a></li>
 <li><a href="#External_links">External links</a></li></ul>
 </div></div></div>
-<h2><span class="mw-headline" id="U">U</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Glossary_of_electrical_and_electronics_engineering&amp;action=edit&amp;section=21" title="Edit section: U">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
 <dl class="glossary">
 <dt class="glossary" id="&#39;&#39;&#39;ubiquitous_computing&#39;&#39;&#39;" style="margin-top: 0.4em;"><dfn class="glossary"><b><a href="/wiki/Ubiquitous_computing" title="Ubiquitous computing">Ubiquitous computing</a></b></dfn></dt><dd class="glossary">A scenario where computer science is made to appear everywhere.</dd>
 <dt class="glossary" id="&#39;&#39;&#39;ultrasonic_motor&#39;&#39;&#39;" style="margin-top: 0.4em;"><dfn class="glossary"><b><a href="/wiki/Ultrasonic_motor" title="Ultrasonic motor">Ultrasonic motor</a></b></dfn></dt><dd class="glossary">A motor that relies on a component oscillating at an ultrasonic frequency.</dd>
@@ -1749,7 +1728,6 @@
 <li><a href="#References">References</a></li>
 <li><a href="#External_links">External links</a></li></ul>
 </div></div></div>
-<h2><span class="mw-headline" id="V">V</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Glossary_of_electrical_and_electronics_engineering&amp;action=edit&amp;section=22" title="Edit section: V">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
 <dl class="glossary">
 <dt class="glossary" id="&#39;&#39;&#39;vacuum_capacitor&#39;&#39;&#39;" style="margin-top: 0.4em;"><dfn class="glossary"><b><a href="/wiki/Vacuum_capacitor" class="mw-redirect" title="Vacuum capacitor">Vacuum capacitor</a></b></dfn></dt><dd class="glossary">A capacitor using vacuum as its dielectric; useful at high voltages or radio frequency.</dd>
 <dt class="glossary" id="&#39;&#39;&#39;vacuum_tube&#39;&#39;&#39;" style="margin-top: 0.4em;"><dfn class="glossary"><b><a href="/wiki/Vacuum_tube" title="Vacuum tube">Vacuum tube</a></b></dfn></dt><dd class="glossary">An electron device that relies on flow of electrons through a vacuum or low-pressure gas; a valve. The first electronic devices that could amplify.</dd>
@@ -1822,7 +1800,6 @@
 <li><a href="#References">References</a></li>
 <li><a href="#External_links">External links</a></li></ul>
 </div></div></div>
-<h2><span class="mw-headline" id="W">W</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Glossary_of_electrical_and_electronics_engineering&amp;action=edit&amp;section=23" title="Edit section: W">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
 <dl class="glossary">
 <dt class="glossary" id="&#39;&#39;&#39;war_of_the_currents&#39;&#39;&#39;" style="margin-top: 0.4em;"><dfn class="glossary"><b><a href="/wiki/War_of_the_currents" title="War of the currents">War of the currents</a></b></dfn></dt><dd class="glossary">The late 19th century commercial dispute on whether AC or DC was the best system for power distribution.</dd>
 <dt class="glossary" id="&#39;&#39;&#39;ward_leonard_control&#39;&#39;&#39;" style="margin-top: 0.4em;"><dfn class="glossary"><b><a href="/wiki/Ward_Leonard_control" title="Ward Leonard control">Ward Leonard control</a></b></dfn></dt><dd class="glossary">A speed control system for DC machines using an interconnected generator and motor.</dd>
@@ -1841,17 +1818,14 @@
 <dt class="glossary" id="&#39;&#39;&#39;wireless_network&#39;&#39;&#39;" style="margin-top: 0.4em;"><dfn class="glossary"><b><a href="/wiki/Wireless_network" title="Wireless network">Wireless network</a></b></dfn></dt><dd class="glossary">Data network relying on radio for the connection to end device; may span a building or a larger area.</dd>
 <dt class="glossary" id="&#39;&#39;&#39;wireless_telegraphy&#39;&#39;&#39;" style="margin-top: 0.4em;"><dfn class="glossary"><b><a href="/wiki/Wireless_telegraphy" title="Wireless telegraphy">Wireless telegraphy</a></b></dfn></dt><dd class="glossary">Transmission of text by radio; usually implies Morse or radio-teletype.</dd>
 </dl>
-<h2><span class="mw-headline" id="X">X</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Glossary_of_electrical_and_electronics_engineering&amp;action=edit&amp;section=24" title="Edit section: X">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
 <dl class="glossary">
 <dt class="glossary" id="&#39;&#39;&#39;x-ray&#39;&#39;&#39;" style="margin-top: 0.4em;"><dfn class="glossary"><b><a href="/wiki/X-ray" title="X-ray">X-ray</a></b></dfn></dt><dd class="glossary">Electromagnetic radiation with wavelengths shorter than ten nanometres. Strictly: radiation that is produced in the electron shell of atoms.</dd>
 <dt class="glossary" id="&#39;&#39;&#39;x-ray_lithography&#39;&#39;&#39;" style="margin-top: 0.4em;"><dfn class="glossary"><b><a href="/wiki/X-ray_lithography" title="X-ray lithography">X-ray lithography</a></b></dfn></dt><dd class="glossary">A developing technique for production of very high density structures in integrated circuits.</dd>
 </dl>
-<h2><span class="mw-headline" id="Y">Y</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Glossary_of_electrical_and_electronics_engineering&amp;action=edit&amp;section=25" title="Edit section: Y">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
 <dl class="glossary">
 <dt class="glossary" id="&#39;&#39;&#39;yagi_antenna&#39;&#39;&#39;" style="margin-top: 0.4em;"><dfn class="glossary"><b><a href="/wiki/Yagi_antenna" class="mw-redirect" title="Yagi antenna">Yagi antenna</a></b></dfn></dt><dd class="glossary">A type of radio antenna using a feeder element, one or more parasitic reflector elements, and one or more director parasitic elements to provide a directional characteristic; the classic home TV rooftop antenna was usually a Yagi antenna .</dd>
 <dt class="glossary" id="&#39;&#39;&#39;y-delta_transform&#39;&#39;&#39;" style="margin-top: 0.4em;"><dfn class="glossary"><b><a href="/wiki/Y-delta_transform" class="mw-redirect" title="Y-delta transform">Y-delta transform</a></b></dfn></dt><dd class="glossary">A mathematical technique in circuit analysis to simplify a circuit.</dd>
 </dl>
-<h2><span class="mw-headline" id="Z">Z</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Glossary_of_electrical_and_electronics_engineering&amp;action=edit&amp;section=26" title="Edit section: Z">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
 <dl class="glossary">
 <dt class="glossary" id="&#39;&#39;&#39;z3_(computer)&#39;&#39;&#39;" style="margin-top: 0.4em;"><dfn class="glossary"><b><a href="/wiki/Z3_(computer)" title="Z3 (computer)">Z3 (computer)</a></b></dfn></dt><dd class="glossary">An electromechanical computer.</dd>
 <dt class="glossary" id="&#39;&#39;&#39;zener_diode&#39;&#39;&#39;" style="margin-top: 0.4em;"><dfn class="glossary"><b><a href="/wiki/Zener_diode" title="Zener diode">Zener diode</a></b></dfn></dt><dd class="glossary">Nickname for "voltage regulator diodes" which may rely either on the Zener effect or avalanch breakdown to maintain a roughly constant voltage; the two effects have opposite temperature coefficients of voltage.</dd>
