@@ -2,7 +2,7 @@
 Repository containing Anki Flashcards &amp; source code to revise Electrical and Electronics Engineering terms
 
 ## Introduction
-This repository has taken definitions outlined in [Glossary of electrical and electronics engineering](https://en.wikipedia.org/wiki/Glossary_of_electrical_and_electronics_engineering) and put them into a form which can be easily learnt/revised using <a href="https://apps.ankiweb.net/">Anki</a> a cross platform app specifically designed for long term knowledge retention.
+This repository has taken definitions outlined in [Wikipedia's Glossary of electrical and electronics engineering](https://en.wikipedia.org/wiki/Glossary_of_electrical_and_electronics_engineering) and put them into a form which can be easily learnt/revised using <a href="https://apps.ankiweb.net/">Anki</a> a cross platform app specifically designed for long term knowledge retention.
 
 ## Notes
 Please note the modifications which have been made & where you can find updates.
