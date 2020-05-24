@@ -1,5 +1,5 @@
 Introduction (Wikipedia Glossary of Electrical and Electronics Engineering)"|"
-<p>This repository has taken definitions outlined in <a href=""https://en.wikipedia.org/wiki/Glossary_of_electrical_and_electronics_engineering"">Wikipedia's Glossary of electrical and electronics engineering</a> and put them into a form which can be easily learnt/revised using <a href=""https://apps.ankiweb.net/"">Anki</a> a cross platform app specifically designed for long term knowledge retention.</p>
+<p>This deck has taken definitions outlined in <a href=""https://en.wikipedia.org/wiki/Glossary_of_electrical_and_electronics_engineering"">Wikipedia's Glossary of electrical and electronics engineering</a> and put them into a form which can be easily learnt/revised using <a href=""https://apps.ankiweb.net/"">Anki</a> a cross platform app specifically designed for long term knowledge retention.</p>
 <h2>Notes</h2>
 <p>Please note the modifications which have been made &amp; where you can find updates.</p>
 <ol align=""left"">
@@ -8,8 +8,8 @@ Introduction (Wikipedia Glossary of Electrical and Electronics Engineering)"|"
 </ol>
 <p>Feel free to share the deck and give the repository a star so more people are likely to see this work and can get the most out of it.</p>
 <h2>License</h2>
-<p>Unless otherwise specified, everything in this repository is covered by the following licence:</p>
-<p>This repository uses material from the Wikipedia article <a href=""https://en.wikipedia.org/wiki/Glossary_of_electrical_and_electronics_engineering"">""Glossary of electrical and electronics engineering""</a>, which is released under the <a href=""https://creativecommons.org/licenses/by-sa/3.0/"">Creative Commons Attribution-Share-Alike License 3.0</a>.</p>
+<p>Unless otherwise specified, everything in this deck is covered by the following licence:</p>
+<p>This deck uses material from the Wikipedia article <a href=""https://en.wikipedia.org/wiki/Glossary_of_electrical_and_electronics_engineering"">""Glossary of electrical and electronics engineering""</a>, which is released under the <a href=""https://creativecommons.org/licenses/by-sa/3.0/"">Creative Commons Attribution-Share-Alike License 3.0</a>.</p>
 <p>To see this work in full go to <a href=""https://en.wikipedia.org/wiki/Glossary_of_electrical_and_electronics_engineering"">https://en.wikipedia.org/wiki/Glossary_of_electrical_and_electronics_engineering</a></p>
 "
 "<b><a href=""https://en.wikipedia.org/wiki/AC_adapter"" title=""AC adapter"">AC adapter</a></b> (Wikipedia Glossary of Electrical and Electronics Engineering)"|"An external power supply for portable devices that allows them to operate from wall-socket electricity."
